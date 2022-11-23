@@ -1,0 +1,16 @@
+Donation page changes
+
+Date of donation --- remove time
+Donation date should be changed to "Date of Arrangement"
+Master registration number --- automate(5000)
+Descripition to be changed to referrence
+Name of sponsor --- name of donor and take it to first line
+Donation in Name --- Donation in whose name
+Descripition and remarks --- sponcerors
+date fonts to be changed
+Book number & recipt numvbber --- to be accepted 
+name of sponsor -- fname and lname not needed
+amount recieved in mode === Mode of donation
+
+New Donor page
+email id not compulsory
